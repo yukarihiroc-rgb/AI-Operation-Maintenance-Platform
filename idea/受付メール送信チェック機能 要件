@@ -65,3 +65,21 @@ ReceptionCheckMethod
 NGまたはReviewとなった受付は、人が内容を確認する。
 
 必要に応じてPower Appsから再チェックを実行できるものとする。
+
+
+
+繰り返し
+    ↓
+複数の項目の取得（受付情報）
+    ↓
+Apply to each（受付）
+    ↓
+メールの取得 (V3)
+    ↓
+配列のフィルター（直近10日）
+    ↓
+Apply to each（候補メール）
+    ↓
+条件
+    ├─ 完全一致 → ReceptionCheckStatus = OK
+    └─ 不一致 → AI Builder
