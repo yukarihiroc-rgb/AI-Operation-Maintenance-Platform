@@ -1,0 +1,337 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="ページ-1" id="E2UWaAMASwMsEHrtsZH7">
+    <mxGraphModel dx="2020" dy="1061" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="900" width="1600" x="20" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="1520" x="60" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-3" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;受付管理表&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="40" width="130" x="70" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="780" width="1340" x="240" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-41" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Aシステム　受付一覧&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="40" width="250" x="250" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="80" width="1320" x="250" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-53" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="780" width="170" x="60" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-4" parent="Zee6TPPkNyJ6sFW2dU1S-53" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="780" width="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-5" parent="Zee6TPPkNyJ6sFW2dU1S-53" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;メニュー&lt;/font&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="40" width="153" x="8.5" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-8" connectable="0" parent="Zee6TPPkNyJ6sFW2dU1S-53" style="group" value="" vertex="1">
+          <mxGeometry height="40" width="153" x="8.5" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-6" parent="Zee6TPPkNyJ6sFW2dU1S-8" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;・全て&lt;/font&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="40" width="153" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-7" parent="Zee6TPPkNyJ6sFW2dU1S-8" style="triangle;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="17" width="12.75" x="127.5" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-9" connectable="0" parent="Zee6TPPkNyJ6sFW2dU1S-53" style="group" value="" vertex="1">
+          <mxGeometry height="40" width="153" x="8.5" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-10" parent="Zee6TPPkNyJ6sFW2dU1S-9" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;・Aシステム&lt;/font&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="40" width="153" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-11" parent="Zee6TPPkNyJ6sFW2dU1S-9" style="triangle;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="17" width="12.75" x="127.5" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-12" connectable="0" parent="Zee6TPPkNyJ6sFW2dU1S-53" style="group;fontSize=12;" value="" vertex="1">
+          <mxGeometry height="40" width="153" x="8.5" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-13" parent="Zee6TPPkNyJ6sFW2dU1S-12" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;・Bシステム&lt;/font&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="40" width="153" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-14" parent="Zee6TPPkNyJ6sFW2dU1S-12" style="triangle;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="17" width="12.75" x="127.5" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-15" connectable="0" parent="Zee6TPPkNyJ6sFW2dU1S-53" style="group;fontSize=12;" value="" vertex="1">
+          <mxGeometry height="40" width="153" x="8.5" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-16" parent="Zee6TPPkNyJ6sFW2dU1S-15" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;・Cシステム&lt;/font&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="40" width="153" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-17" parent="Zee6TPPkNyJ6sFW2dU1S-15" style="triangle;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="17" width="12.75" x="127.5" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-18" connectable="0" parent="Zee6TPPkNyJ6sFW2dU1S-53" style="group;fontSize=12;" value="" vertex="1">
+          <mxGeometry height="40" width="153" x="8.5" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-19" parent="Zee6TPPkNyJ6sFW2dU1S-18" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;・Dシステム&lt;/font&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="40" width="153" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-20" parent="Zee6TPPkNyJ6sFW2dU1S-18" style="triangle;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="17" width="12.75" x="127.5" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-21" connectable="0" parent="Zee6TPPkNyJ6sFW2dU1S-53" style="group;fontSize=12;" value="" vertex="1">
+          <mxGeometry height="40" width="153" x="8.5" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-22" parent="Zee6TPPkNyJ6sFW2dU1S-21" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;・Eシステム&lt;/font&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="40" width="153" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-23" parent="Zee6TPPkNyJ6sFW2dU1S-21" style="triangle;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="17" width="12.75" x="127.5" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-24" connectable="0" parent="Zee6TPPkNyJ6sFW2dU1S-53" style="group;fontSize=12;" value="" vertex="1">
+          <mxGeometry height="40" width="153" x="8.5" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-25" parent="Zee6TPPkNyJ6sFW2dU1S-24" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;・Fシステム&lt;/font&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="40" width="153" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-26" parent="Zee6TPPkNyJ6sFW2dU1S-24" style="triangle;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="17" width="12.75" x="127.5" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-27" connectable="0" parent="Zee6TPPkNyJ6sFW2dU1S-53" style="group;fontSize=10;" value="" vertex="1">
+          <mxGeometry height="40" width="153" x="8.5" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-28" parent="Zee6TPPkNyJ6sFW2dU1S-27" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;・夜間コール&lt;/font&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="40" width="153" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-29" parent="Zee6TPPkNyJ6sFW2dU1S-27" style="triangle;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="17" width="12.75" x="127.5" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-30" connectable="0" parent="Zee6TPPkNyJ6sFW2dU1S-53" style="group" value="" vertex="1">
+          <mxGeometry height="40" width="153" x="8.5" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-31" parent="Zee6TPPkNyJ6sFW2dU1S-30" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;・受付以外&lt;/font&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="40" width="153" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-32" parent="Zee6TPPkNyJ6sFW2dU1S-30" style="triangle;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="17" width="12.75" x="127.5" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-33" parent="Zee6TPPkNyJ6sFW2dU1S-53" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;受付管理&lt;/font&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="40" width="153" x="8.5" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-39" parent="Zee6TPPkNyJ6sFW2dU1S-53" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;・AI受付確認&lt;/font&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="40" width="153" x="8.5" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-40" parent="Zee6TPPkNyJ6sFW2dU1S-53" style="triangle;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="17" width="12.75" x="136" y="571.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-56" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="80" width="1320" x="250" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-44" parent="Zee6TPPkNyJ6sFW2dU1S-56" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="受付No" vertex="1">
+          <mxGeometry height="40" width="60" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-45" parent="Zee6TPPkNyJ6sFW2dU1S-56" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="メール件名&lt;br&gt;複数行" vertex="1">
+          <mxGeometry height="40" width="250" x="150" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-46" parent="Zee6TPPkNyJ6sFW2dU1S-56" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="送信者名" vertex="1">
+          <mxGeometry height="40" width="140" x="400" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-47" parent="Zee6TPPkNyJ6sFW2dU1S-56" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="種別" vertex="1">
+          <mxGeometry height="40" width="100" x="540" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-48" parent="Zee6TPPkNyJ6sFW2dU1S-56" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="受信日時" vertex="1">
+          <mxGeometry height="40" width="120" x="640" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-49" parent="Zee6TPPkNyJ6sFW2dU1S-56" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="目標対応期限" vertex="1">
+          <mxGeometry height="40" width="120" x="760" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-50" parent="Zee6TPPkNyJ6sFW2dU1S-56" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="依頼期限" vertex="1">
+          <mxGeometry height="40" width="120" x="760" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-51" parent="Zee6TPPkNyJ6sFW2dU1S-56" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="AI要約&lt;div&gt;（複数行）&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="220" x="880" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-54" parent="Zee6TPPkNyJ6sFW2dU1S-56" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="ToDO&lt;div&gt;（複数行）&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="220" x="1100" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-55" parent="Zee6TPPkNyJ6sFW2dU1S-56" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="ステータス" vertex="1">
+          <mxGeometry height="40" width="90" x="60" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-57" connectable="0" parent="1" style="group;strokeColor=default;" value="" vertex="1">
+          <mxGeometry height="80" width="1320" x="250" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-58" parent="Zee6TPPkNyJ6sFW2dU1S-57" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="受付No" vertex="1">
+          <mxGeometry height="40" width="60" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-59" parent="Zee6TPPkNyJ6sFW2dU1S-57" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="メール件名&lt;br&gt;複数行" vertex="1">
+          <mxGeometry height="40" width="250" x="150" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-60" parent="Zee6TPPkNyJ6sFW2dU1S-57" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="送信者名" vertex="1">
+          <mxGeometry height="40" width="140" x="400" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-61" parent="Zee6TPPkNyJ6sFW2dU1S-57" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="種別" vertex="1">
+          <mxGeometry height="40" width="100" x="540" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-62" parent="Zee6TPPkNyJ6sFW2dU1S-57" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="受信日時" vertex="1">
+          <mxGeometry height="40" width="120" x="640" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-63" parent="Zee6TPPkNyJ6sFW2dU1S-57" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="目標対応期限" vertex="1">
+          <mxGeometry height="40" width="120" x="760" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-64" parent="Zee6TPPkNyJ6sFW2dU1S-57" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="依頼期限" vertex="1">
+          <mxGeometry height="40" width="120" x="760" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-65" parent="Zee6TPPkNyJ6sFW2dU1S-57" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="AI要約&lt;div&gt;（複数行）&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="220" x="880" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-66" parent="Zee6TPPkNyJ6sFW2dU1S-57" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="ToDO&lt;div&gt;（複数行）&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="220" x="1100" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-67" parent="Zee6TPPkNyJ6sFW2dU1S-57" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="ステータス" vertex="1">
+          <mxGeometry height="40" width="90" x="60" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-68" connectable="0" parent="1" style="group;strokeColor=default;" value="" vertex="1">
+          <mxGeometry height="80" width="1320" x="250" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-69" parent="Zee6TPPkNyJ6sFW2dU1S-68" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="受付No" vertex="1">
+          <mxGeometry height="40" width="60" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-70" parent="Zee6TPPkNyJ6sFW2dU1S-68" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="メール件名&lt;br&gt;複数行" vertex="1">
+          <mxGeometry height="40" width="250" x="150" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-71" parent="Zee6TPPkNyJ6sFW2dU1S-68" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="送信者名" vertex="1">
+          <mxGeometry height="40" width="140" x="400" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-72" parent="Zee6TPPkNyJ6sFW2dU1S-68" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="種別" vertex="1">
+          <mxGeometry height="40" width="100" x="540" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-73" parent="Zee6TPPkNyJ6sFW2dU1S-68" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="受信日時" vertex="1">
+          <mxGeometry height="40" width="120" x="640" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-74" parent="Zee6TPPkNyJ6sFW2dU1S-68" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="目標対応期限" vertex="1">
+          <mxGeometry height="40" width="120" x="760" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-75" parent="Zee6TPPkNyJ6sFW2dU1S-68" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="依頼期限" vertex="1">
+          <mxGeometry height="40" width="120" x="760" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-76" parent="Zee6TPPkNyJ6sFW2dU1S-68" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="AI要約&lt;div&gt;（複数行）&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="220" x="880" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-77" parent="Zee6TPPkNyJ6sFW2dU1S-68" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="ToDO&lt;div&gt;（複数行）&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="220" x="1100" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-78" parent="Zee6TPPkNyJ6sFW2dU1S-68" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="ステータス" vertex="1">
+          <mxGeometry height="40" width="90" x="60" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-113" connectable="0" parent="1" style="group;strokeColor=default;" value="" vertex="1">
+          <mxGeometry height="80" width="1320" x="250" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-114" parent="Zee6TPPkNyJ6sFW2dU1S-113" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="受付No" vertex="1">
+          <mxGeometry height="40" width="60" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-115" parent="Zee6TPPkNyJ6sFW2dU1S-113" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="メール件名&lt;br&gt;複数行" vertex="1">
+          <mxGeometry height="40" width="250" x="150" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-116" parent="Zee6TPPkNyJ6sFW2dU1S-113" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="送信者名" vertex="1">
+          <mxGeometry height="40" width="140" x="400" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-117" parent="Zee6TPPkNyJ6sFW2dU1S-113" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="種別" vertex="1">
+          <mxGeometry height="40" width="100" x="540" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-118" parent="Zee6TPPkNyJ6sFW2dU1S-113" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="受信日時" vertex="1">
+          <mxGeometry height="40" width="120" x="640" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-119" parent="Zee6TPPkNyJ6sFW2dU1S-113" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="目標対応期限" vertex="1">
+          <mxGeometry height="40" width="120" x="760" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-120" parent="Zee6TPPkNyJ6sFW2dU1S-113" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="依頼期限" vertex="1">
+          <mxGeometry height="40" width="120" x="760" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-121" parent="Zee6TPPkNyJ6sFW2dU1S-113" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="AI要約&lt;div&gt;（複数行）&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="220" x="880" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-122" parent="Zee6TPPkNyJ6sFW2dU1S-113" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="ToDO&lt;div&gt;（複数行）&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="220" x="1100" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-123" parent="Zee6TPPkNyJ6sFW2dU1S-113" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="ステータス" vertex="1">
+          <mxGeometry height="40" width="90" x="60" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-124" connectable="0" parent="1" style="group;strokeColor=default;" value="" vertex="1">
+          <mxGeometry height="80" width="1320" x="250" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-125" parent="Zee6TPPkNyJ6sFW2dU1S-124" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="受付No" vertex="1">
+          <mxGeometry height="40" width="60" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-126" parent="Zee6TPPkNyJ6sFW2dU1S-124" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="メール件名&lt;br&gt;複数行" vertex="1">
+          <mxGeometry height="40" width="250" x="150" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-127" parent="Zee6TPPkNyJ6sFW2dU1S-124" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="送信者名" vertex="1">
+          <mxGeometry height="40" width="140" x="400" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-128" parent="Zee6TPPkNyJ6sFW2dU1S-124" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="種別" vertex="1">
+          <mxGeometry height="40" width="100" x="540" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-129" parent="Zee6TPPkNyJ6sFW2dU1S-124" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="受信日時" vertex="1">
+          <mxGeometry height="40" width="120" x="640" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-130" parent="Zee6TPPkNyJ6sFW2dU1S-124" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="目標対応期限" vertex="1">
+          <mxGeometry height="40" width="120" x="760" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-131" parent="Zee6TPPkNyJ6sFW2dU1S-124" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="依頼期限" vertex="1">
+          <mxGeometry height="40" width="120" x="760" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-132" parent="Zee6TPPkNyJ6sFW2dU1S-124" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="AI要約&lt;div&gt;（複数行）&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="220" x="880" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-133" parent="Zee6TPPkNyJ6sFW2dU1S-124" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="ToDO&lt;div&gt;（複数行）&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="220" x="1100" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-134" parent="Zee6TPPkNyJ6sFW2dU1S-124" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="ステータス" vertex="1">
+          <mxGeometry height="40" width="90" x="60" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-135" connectable="0" parent="1" style="group;strokeColor=default;" value="" vertex="1">
+          <mxGeometry height="80" width="1320" x="250" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-136" parent="Zee6TPPkNyJ6sFW2dU1S-135" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="受付No" vertex="1">
+          <mxGeometry height="40" width="60" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-137" parent="Zee6TPPkNyJ6sFW2dU1S-135" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="メール件名&lt;br&gt;複数行" vertex="1">
+          <mxGeometry height="40" width="250" x="150" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-138" parent="Zee6TPPkNyJ6sFW2dU1S-135" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="送信者名" vertex="1">
+          <mxGeometry height="40" width="140" x="400" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-139" parent="Zee6TPPkNyJ6sFW2dU1S-135" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="種別" vertex="1">
+          <mxGeometry height="40" width="100" x="540" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-140" parent="Zee6TPPkNyJ6sFW2dU1S-135" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="受信日時" vertex="1">
+          <mxGeometry height="40" width="120" x="640" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-141" parent="Zee6TPPkNyJ6sFW2dU1S-135" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="目標対応期限" vertex="1">
+          <mxGeometry height="40" width="120" x="760" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-142" parent="Zee6TPPkNyJ6sFW2dU1S-135" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="依頼期限" vertex="1">
+          <mxGeometry height="40" width="120" x="760" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-143" parent="Zee6TPPkNyJ6sFW2dU1S-135" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="AI要約&lt;div&gt;（複数行）&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="220" x="880" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-144" parent="Zee6TPPkNyJ6sFW2dU1S-135" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="ToDO&lt;div&gt;（複数行）&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="220" x="1100" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-145" parent="Zee6TPPkNyJ6sFW2dU1S-135" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="ステータス" vertex="1">
+          <mxGeometry height="40" width="90" x="60" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-146" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;受付済：＊＊件&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="40" width="190" x="310" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-147" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;受付済み以外：＊＊件&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="40" width="260" x="520" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-148" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;夜間コール：＊＊件&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="40" width="260" x="800" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Zee6TPPkNyJ6sFW2dU1S-149" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;受付：＊＊件&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="40" width="260" x="530" y="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
