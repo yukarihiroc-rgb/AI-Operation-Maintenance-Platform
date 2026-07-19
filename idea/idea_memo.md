@@ -7,6 +7,7 @@
 ・Appsで受付一覧を表示する場合、最も古いメールを親として、子メールをツリー表示でぶら下げて表示するようにしたい。
 　「Messageid」「InternetMessageid」「Concersationid」の３つのIDを取得しているが、ほかに必要な情報はあるか？
 ・重複排除の処理がミスっている。多分「InternetMessageid」を外したから。
+　→とりあえず時間を取り除いた。
 ・
 
 
