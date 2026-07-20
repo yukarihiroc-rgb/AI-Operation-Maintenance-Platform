@@ -1,0 +1,26 @@
+③ 17:30以降＋土日祝をまとめて判定（おすすめ）
+
+例えば、
+
+平日17:30以降
+土曜日
+日曜日
+祝日
+
+ならグレー表示
+
+If(
+    Weekday(ThisItem.メール受信日時, StartOfWeek.Monday) >= 6
+    ||
+    !IsBlank(
+        LookUp(
+            祝日マスタ,
+            日付 = DateValue(ThisItem.メール受信日時)
+        )
+    )
+    ||
+    TimeValue(ThisItem.メール受信日時) >= Time(17,30,0),
+
+    Color.Gray,
+    Color.Black
+)
