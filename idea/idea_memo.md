@@ -31,6 +31,19 @@
 　②テキストラベルの「Visible」をに「varEditID = ThisItem.ID」を記載。
 　③
 ・「受信トレイ」の「共有とアクセス許可」の設定を行えば、メッセージIDで作成したディープリンクで接続可能になる。
+・障害対応は「夜間コール」があった場合は、夜間コールの電話受電時間にする。
+
+日本語名称
+Screen：scr受付一覧
+Gallery：gal受付一覧
+Container：cntヘッダー
+Label：lbl件名
+Button：btn更新
+TextInput：txt検索
+ComboBox：cmb担当者
+Dropdown：drp業務種別
+Icon：ico更新
+Timer：tmr更新
 
 【大野さんの受付チェック機能】
 ・ＡＩの受付判定
