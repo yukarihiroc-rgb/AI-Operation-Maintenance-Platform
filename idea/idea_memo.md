@@ -1,4 +1,5 @@
 ・ブラックリスト機能の追加
+　→一時実装完了
 ・以下、フィルター機能の追加
 　フィルターボタン
 　クローズ未表示
@@ -7,6 +8,10 @@
 　システム名（プルダウン）
 　障害・問い合わせ・夜間（プルダウン）
 　完了／未完了表示
+・コミット処理の時に、「Patch 関数の使用中にネットワークエラーが発生しました：要求された操作は無効です。」がでる。
+　おそらくユーザーの操作とPowerAutomateの処理がバッティングした際に発生しているものと思われる
+
+ 
 ・エラー管理（Scope化）しないとだめ。
 ・GuiはOutlookにあわせる
 ・緊急系に色を付ける（Apps）
@@ -47,6 +52,24 @@ ComboBox：cmb担当者
 Dropdown：drp業務種別
 Icon：ico更新
 Timer：tmr更新
+Toggle tgl有効
+
+| コントロール       | 略称    | 例         |
+| ------------ | ----- | --------- |
+| Screen       | `scr` | `scr受付一覧` |
+| Gallery      | `gal` | `gal受付一覧` |
+| Container    | `cnt` | `cntヘッダー` |
+| Label        | `lbl` | `lbl件名`   |
+| Button       | `btn` | `btn更新`   |
+| TextInput    | `txt` | `txt検索`   |
+| ComboBox     | `cmb` | `cmb担当者`  |
+| Dropdown     | `drp` | `drp業務種別` |
+| DatePicker   | `dtp` | `dtp受付日`  |
+| Icon         | `ico` | `ico更新`   |
+| Timer        | `tmr` | `tmr更新`   |
+| **Toggle**   | `tgl` | `tgl有効`   |
+| **Checkbox** | `chk` | `chk送信者`  |
+
 
 【大野さんの受付チェック機能】
 ・ＡＩの受付判定
